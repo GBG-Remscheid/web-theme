@@ -9,5 +9,5 @@
     <plugins>
         <plugin plugin="helixultimate" group="system" />
     </plugins>
-    <template name="shaper_helixultimate"/>
+    <template name="GBG-Remscheid"/>
 </extension>
