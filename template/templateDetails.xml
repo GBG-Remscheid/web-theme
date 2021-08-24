@@ -20,7 +20,8 @@
     </updateservers>
 
     <languages>
-        <language tag="en-GB">en-GB.tpl_shaper_helixultimate.ini</language>
+        <language tag="en-GB">en-GB.tpl_shaper_helixultimate.ini></language>
+        <language tag="de-DE">de-DE.tpl_gbg_remscheid.ini></language>
     </languages>
 
     <positions>
